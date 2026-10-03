@@ -49,11 +49,12 @@ a{
  .v-nav{
     list-style:none;
     position:absolute;
-    top:47px;
+    top:40px;
     width:100px;
     left:300px;
-    background-color:rgb(130, 20, 20) ;
+    background-color:rgb(179, 6, 6) ;
     display:none;
+    
  }
 
  .v-items{
